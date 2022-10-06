@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slip28Q2</string>
+    <string name="one">Enter Roll Number</string>
+    <string name="two">Enter Name</string>
+    <string name="three">Enter Email</string>
+    <string name="four">Enter Contact Number</string>
+    <string name="five">Enter Gender</string>
+    <string name="six">Enter Standard</string>
+</resources>
